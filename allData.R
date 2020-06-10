@@ -1,7 +1,6 @@
 library(ggplot2)
 
 percData<-read.csv("percData.csv")
-fluData<-read.csv("Flu Data.csv")
 
 #percent confirmed cases plot-------------------------------------------
 
